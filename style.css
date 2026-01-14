@@ -54,6 +54,11 @@
       cursor: pointer;
     }
 
+    .btn a{
+      text-decoration: none;
+      color: inherit;
+    }
+
     .btn:hover {
       background: #0D1321;
       color: #ffffff;
@@ -122,6 +127,11 @@
       background: transparent;
       color: #0D1321;
       transition: 0.3s ease;
+    }
+
+    .btn-2 a {
+      text-decoration: none;
+      color: inherit;
     }
 
     /* Banner Section End */
@@ -209,6 +219,11 @@
       background: #0D1321;
       color: #ffffff;
       transition: 0.3s ease;
+    }
+
+    .learn a{
+      text-decoration: none;
+      color: inherit;
     }
 
     /* Why-Web-Dev Section End */
