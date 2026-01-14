@@ -524,4 +524,8 @@
       height: 36px;
     }
 
+    .footer .social-links a{
+      text-decoration: none;
+    }
+
     /*Footer Section End*/
